@@ -30,7 +30,7 @@ The simulated waveforms confirm correct DSP48A1 functional behavior, matching re
 | Tool | Purpose |
 |------|----------|
 | **Verilog HDL** | Design description |
-| ** QuestaSim** | Simulation and waveform analysis | 
+| **QuestaSim** | Simulation and waveform analysis | 
 | **Vivado / ISE** | (Optional) Synthesis and FPGA mapping |
 | **GitHub** | Version control and documentation |
 | **Questalint** | Linting the design and to detect the design is synthesis or not|
