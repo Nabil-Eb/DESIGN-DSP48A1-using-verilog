@@ -1,0 +1,6 @@
+vlib work
+vlog Proj_1.v proj_2.v proj_1_TB.v
+vsim -voptargs=+acc work.DSP48A1_TB
+add wave *
+run -all
+#quit -sim
